@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://schemas.microsoft.com/dotnet/2021/maui"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="MiAppCrud.Views.CategoriaEditPage">
+    <StackLayout Padding="10">
+        <Label Text="Nombre de la Categoría"/>
+        <Entry x:Name="NombreEntry"/>
+
+        <Label Text="Descripción"/>
+        <Entry x:Name="DescripcionEntry"/>
+
+        <Button Text="Guardar" Clicked="OnSaveClicked"/>
+        <Button Text="Eliminar" Clicked="OnDeleteClicked" />
+
+    </StackLayout>
+</ContentPage>

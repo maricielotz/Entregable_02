@@ -1,0 +1,313 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\categoriaeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\productolistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\categorialistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\categorialistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\productolistpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\productoeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\productoeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\productoeditpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\categorialistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\categorialistpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:views\\categoriaeditpage.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:services\\categoriaservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:services\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:app.xaml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:services\\productoservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:controllers\\productocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:models\\categoria.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:mainpage.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|c:\\users\\lenovo\\source\\repos\\miappcrud\\app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}",
+      "RelativeMoniker": "D:0:0:{24683173-5F9A-47CC-9A24-161B92557BAB}|MiAppCrud.csproj|solutionrelative:app.xaml||{F11ACC28-31D1-4C80-A34B-F4E09D3D753C}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{7d1a5679-04f2-3f4a-851f-855baa54731c}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductoEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductoEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml.cs",
+              "RelativeToolTip": "Views\\ProductoEditPage.xaml.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAiwB8AAABPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:01:29.277Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CategoriaListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CategoriaListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaListPage.xaml.cs",
+              "RelativeToolTip": "Views\\CategoriaListPage.xaml.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBEAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:11:16.281Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductoListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoListPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductoListPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoListPage.xaml",
+              "RelativeToolTip": "Views\\ProductoListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAABHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T22:58:17.505Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductoListPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\ProductoListPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoListPage.xaml.cs",
+              "RelativeToolTip": "Views\\ProductoListPage.xaml.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAoAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:02:39.018Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CategoriaEditPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaEditPage.xaml",
+              "RelativeToolTip": "Views\\CategoriaEditPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T19:12:20.55Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoEditPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeDocumentMoniker": "Views\\ProductoEditPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\ProductoEditPage.xaml",
+              "RelativeToolTip": "Views\\ProductoEditPage.xaml",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T22:58:38.41Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "CategoriaListPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "RelativeDocumentMoniker": "Views\\CategoriaListPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaListPage.xaml",
+              "RelativeToolTip": "Views\\CategoriaListPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-20T19:10:41.195Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CategoriaEditPage.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeDocumentMoniker": "Views\\CategoriaEditPage.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Views\\CategoriaEditPage.xaml.cs",
+              "RelativeToolTip": "Views\\CategoriaEditPage.xaml.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAIwB0AAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:12:37.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "App.xaml.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\App.xaml.cs",
+              "RelativeDocumentMoniker": "App.xaml.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\App.xaml.cs",
+              "RelativeToolTip": "App.xaml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T23:03:38.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "Controllers\\CategoriaController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:09:43.753Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "CategoriaService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\CategoriaService.cs",
+              "RelativeDocumentMoniker": "Services\\CategoriaService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\CategoriaService.cs",
+              "RelativeToolTip": "Services\\CategoriaService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:09:10.961Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Database.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\Database.cs",
+              "RelativeDocumentMoniker": "Services\\Database.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\Database.cs",
+              "RelativeToolTip": "Services\\Database.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:57:36.634Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoService.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\ProductoService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductoService.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Services\\ProductoService.cs",
+              "RelativeToolTip": "Services\\ProductoService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:57:48.604Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ProductoController.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductoController.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Controllers\\ProductoController.cs",
+              "RelativeToolTip": "Controllers\\ProductoController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T22:57:14.501Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Categoria.cs",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeDocumentMoniker": "Models\\Categoria.cs",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\Models\\Categoria.cs",
+              "RelativeToolTip": "Models\\Categoria.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-20T19:06:39.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MainPage.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\MainPage.xaml",
+              "RelativeDocumentMoniker": "MainPage.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\MainPage.xaml",
+              "RelativeToolTip": "MainPage.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T23:14:37.738Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "App.xaml",
+              "DocumentMoniker": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\App.xaml",
+              "RelativeDocumentMoniker": "App.xaml",
+              "ToolTip": "C:\\Users\\LENOVO\\source\\repos\\MiAppCrud\\App.xaml",
+              "RelativeToolTip": "App.xaml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003549|",
+              "WhenOpened": "2024-09-19T23:03:32.107Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
